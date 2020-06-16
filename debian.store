@@ -1,1 +1,1 @@
-{"base": "0eed7e7", "parent": "debian/foxy/joint_state_publisher", "previous": "165b062", "trim": "", "trimbase": ""}
+{"base": "234d251", "parent": "debian/rolling/joint_state_publisher", "previous": "af9a177", "trim": "", "trimbase": ""}
