@@ -1,1 +1,1 @@
-{"base": "5214ed2", "parent": "debian/rolling/joint_state_publisher", "previous": "593a6cf", "trim": "", "trimbase": ""}
+{"base": "1a5e74c", "parent": "debian/humble/joint_state_publisher", "previous": "401e6c2", "trim": "", "trimbase": ""}
